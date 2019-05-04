@@ -1,6 +1,6 @@
 ## Self Driving Vehicles
 
-![](https://gph.is/1Qc7hHV)
+![](https://media.giphy.com/media/PY6rZl1vZwLra/giphy.gif)
 
 The program was developed by Udacity in partnership with Mercedes-Benz, NVIDIA, Otto, DiDi, BMW, McLaren and NextEv.
 
